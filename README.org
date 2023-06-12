@@ -1,0 +1,9 @@
+* zpng
+
+Common Lisp PNG creation library
+
+|---------+--------------------------------------------------------------------------|
+| source  | file:https://github.com/xach/zpng/archive/refs/tags/release-1.2.2.tar.gz |
+| file    | 1.2.2                                                                    |
+| systems | zpng                                                                     |
+|---------+--------------------------------------------------------------------------|
